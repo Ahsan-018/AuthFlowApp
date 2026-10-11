@@ -20,20 +20,6 @@ An Android application developed using **Java and XML** in Android Studio. This 
 - Android SDK
 - Git and GitHub
 
-## Application Screenshots
-
-### Splash Screen
-
-![Splash Screen](screenshots/splash.png)
-
-### Login Screen
-
-![Login Screen](screenshots/login.png)
-
-### Signup Screen
-
-![Signup Screen](screenshots/signup.png)
-
 ## Project Structure
 
 ```text
